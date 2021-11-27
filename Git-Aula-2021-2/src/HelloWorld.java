@@ -10,6 +10,9 @@ public class HelloWorld {
 		System.out.println("Fork rasd para PR");
 
 		System.out.println("Luiz Freitas");
+		
+		//Pratica 3 - pull request
+		System.out.println("Luiz Freitas");
 
 		System.out.println("Teste PR Reverso");
 

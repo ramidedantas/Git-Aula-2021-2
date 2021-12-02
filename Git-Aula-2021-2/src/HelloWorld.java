@@ -11,6 +11,8 @@ public class HelloWorld {
 
 		System.out.println("Luiz Freitas");
 		
+		System.out.println("Hello World by Julio Guimaraes!");
+		
 		//Pratica 3 - pull request
 		System.out.println("Luiz Freitas");
 

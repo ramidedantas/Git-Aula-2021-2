@@ -17,11 +17,16 @@ public class HelloWorld {
 		
 		//Prática 3 - Lucas Monteiro
 		System.out.println("Branch LucasMonteiro modificada");
-		
+				
 		//Pratica 3 - pull request
 		System.out.println("Luiz Freitas");
 
 		System.out.println("Teste PR Reverso");
+		
+//		Pratica 3 - Julio Guimaraes
+		System.out.println("Hello World by Branch Julio Guimaraes!");
+
+		
 
 	}
 

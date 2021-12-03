@@ -15,7 +15,9 @@ public class HelloWorld {
 		
 		System.out.println("Hello World by Lucas Monteiro!");
 		
-		//Prática 3 - Lucas Monteiro
+		System.out.println("Hello World by Lucas Silva!!");
+		
+		//Prï¿½tica 3 - Lucas Monteiro
 		System.out.println("Branch LucasMonteiro modificada");
 		
 		//Pratica 3 - pull request

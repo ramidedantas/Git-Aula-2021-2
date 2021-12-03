@@ -15,15 +15,21 @@ public class HelloWorld {
 		
 		System.out.println("Hello World by Lucas Monteiro!");
 		
+<<<<<<< HEAD
 		System.out.println("Hello World by Lucas Silva!!");
 		
+=======
+>>>>>>> branch 'main' of https://github.com/ramidedantas/Git-Aula-2021-2.git
 		//Pr�tica 3 - Lucas Monteiro
 		System.out.println("Branch LucasMonteiro modificada");
+		System.out.println("Master do meu Fork modificada");
 		
 		//Pratica 3 - pull request
 		System.out.println("Luiz Freitas");
 
 		System.out.println("Teste PR Reverso");
+
+		System.out.println("Pratica 3 - pull request lucas silva");
 
 	}
 

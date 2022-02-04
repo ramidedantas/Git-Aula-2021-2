@@ -45,6 +45,8 @@ public class HelloWorld {
 		
 		/*Prática 3 - Italo Poliesti*/
 		System.out.println("Modificando Branch ItaloPoliesti");
+		/*Prática 3 - Italo Poliesti Pull request*/
+		System.out.println("Italo Poliesti");
 	}
 
 }

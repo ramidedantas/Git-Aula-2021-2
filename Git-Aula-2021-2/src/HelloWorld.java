@@ -41,6 +41,12 @@ public class HelloWorld {
 		
 		/*Prática 3 - Paulo Santos Pull reques*/
 		System.out.println("Paulo Santos");
+		
+		
+		
+		
+		/*Prática 3 - Italo Poliesti Pull request*/
+		System.out.println("Paulo Santos");
 	}
 
 }

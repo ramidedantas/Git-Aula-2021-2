@@ -18,6 +18,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World by Lucas Silva!!");
 		
+		System.out.println("Hello World by Italo Poliesti!!");
 
 
 		

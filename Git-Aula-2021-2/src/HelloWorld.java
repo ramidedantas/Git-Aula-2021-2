@@ -23,10 +23,11 @@ public class HelloWorld {
 		System.out.println("Luzonaldo Silva Junior");
 
 
+
 		
 		//pratica 3 - Luzonaldo
 		System.out.println("Branch Luzonaldo Silva Junior");
-		System.out.println("Branch Luzonaldo Silva Junior2");
+		System.out.println("Branch Luzonaldo + Main merge");
 		
 		//Pr�tica 3 - Lucas Monteiro
 		System.out.println("Branch LucasMonteiro modificada");

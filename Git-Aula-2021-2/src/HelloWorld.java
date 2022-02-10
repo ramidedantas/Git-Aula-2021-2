@@ -26,6 +26,7 @@ public class HelloWorld {
 		
 		//pratica 3 - Luzonaldo
 		System.out.println("Branch Luzonaldo Silva Junior");
+		System.out.println("Branch Luzonaldo Silva Junior2");
 		
 		//Pr�tica 3 - Lucas Monteiro
 		System.out.println("Branch LucasMonteiro modificada");

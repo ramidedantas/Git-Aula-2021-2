@@ -19,6 +19,8 @@ public class HelloWorld {
 		System.out.println("Hello World by Lucas Silva!!");
 		
 		System.out.println("Hello World by Italo Poliesti!!");
+		
+		System.out.println("Luzonaldo Silva Junior");
 
 
 		
@@ -37,15 +39,15 @@ public class HelloWorld {
 		System.out.println("Nova branch com meu nome");
 			//Novo pull-request a partir do fork
 
-		/*Prática 3 - Paulo Santos*/
+		/*Prï¿½tica 3 - Paulo Santos*/
 		System.out.println("Modificando Branch Paulo Santos");
 		
-		/*Prática 3 - Paulo Santos Pull reques*/
+		/*Prï¿½tica 3 - Paulo Santos Pull reques*/
 		System.out.println("Paulo Santos");
 		
-		/*Prática 3 - Italo Poliesti*/
+		/*Prï¿½tica 3 - Italo Poliesti*/
 		System.out.println("Modificando Branch ItaloPoliesti");
-		/*Prática 3 - Italo Poliesti Pull request*/
+		/*Prï¿½tica 3 - Italo Poliesti Pull request*/
 		System.out.println("Italo Poliesti");
 	}
 
